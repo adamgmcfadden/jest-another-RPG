@@ -35,7 +35,7 @@ A command-line role playing game (RPG) build entirely with Object Oriented Progr
 ## Usage
 Screenshot of working example: 
 
-![Screenshot](https://user-images.githubusercontent.com/83710803/137563014-14613559-b40a-4cc0-80e8-94f5680eaaa2.png)
+![Screenshot](https://user-images.githubusercontent.com/83710803/137563076-98523d9f-2e9f-4e18-ad43-d339bb3b43bf.png)
   
 ## Credits
 
